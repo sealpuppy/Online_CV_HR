@@ -1,0 +1,25 @@
+{% if site.data.course %}
+<section class="section course-section">
+
+  <h2 class="section-title"><i class="fa fa-archive"></i>course</h2>
+
+  {% if site.data.course.intro %}
+  <div class="intro">
+      <p>{{ site.data.course.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for project in site.data.course.course %}
+    <div class="item">
+
+      <span class="project-title"><a href="{{ project.link }}">{{ project.title }}</a></span>
+
+      {% if project.tagline %}
+      - <span class="project-tagline">{{ project.tagline }}</span>
+      {% endif %}
+
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
