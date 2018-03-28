@@ -1,9 +1,9 @@
 intro: ""
 projects:
-  - project: Human Resource Data Analytics (https://goo.gl/Va9Wkn)
-    title: 
+  - project: Human Resource Data Analytics
+    title: Human Resource Data Analytics
     link: "https://goo.gl/s5YVKz"
-    tagline: "<br>
+    tagline: "A kaggle project trying to identify reasons of employee turnover <br>
     。 Predicted employee turnover ratio with 97% precision by machine learning techniques <br>
     。 Identified 3 types of employee with high turnover possibilities <br>
     。 Analyzed dataset with 14,999 individuals and nine different features <br>
