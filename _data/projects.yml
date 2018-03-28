@@ -1,10 +1,14 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: ""
 projects:
-  - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  - project: Human Resource Data Analytics (https://goo.gl/Va9Wkn)
+    title: 
+    link: "https://goo.gl/s5YVKz"
+    tagline: "<br>
+    。 Predicted employee turnover ratio with 97% precision by machine learning techniques <br>
+    。 Identified 3 types of employee with high turnover possibilities <br>
+    。 Analyzed dataset with 14,999 individuals and nine different features <br>
+    。 Shared data-driven human resource insights with Adecco Manager of Human Resource <br>
+    "
   - project:
     title: DevStudio
     link: "#"
