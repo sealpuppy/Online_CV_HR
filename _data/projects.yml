@@ -3,25 +3,25 @@ projects:
   - project: Human Resource Data Analytics
     title: Human Resource Data Analytics
     link: "https://goo.gl/s5YVKz"
-    tagline: "A kaggle project trying to identify reasons of employee turnover <br>
+    tagline: "A kaggle project trying to identify employee turnover factors <br>
     。 Predicted employee turnover ratio with 97% precision by machine learning techniques <br>
     。 Identified 3 types of employee with high turnover possibilities <br>
     。 Analyzed dataset with 14,999 individuals and nine different features <br>
     。 Shared data-driven human resource insights with Adecco Manager of Human Resource <br>
     "
   - project:
-    title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    title: NTU Challenge Competition
+    link: "https://tec.ntu.edu.tw/tec-challenge/"
+    tagline: "NTU Challenge is a innovative idea competition. We planned to develop an online programming education platform for high school students. <br>
+    。 Planned product features, including rewarding system, user flow, etc. <br>
+    。 Analyzed existing competitors and conducted proposal <br>
+    。 Achieved top 20% of overall ranking <br>
+    "
   - project:
-    title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-  - project:
-    title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-  - project:
-    title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    title: Wenz (Columnist)
+    link: "https://www.facebook.com/wenzproject/"
+    tagline: "Wenz is a new media which targeting elderly people. Aims to provide objective reporting in various domains of social issues, including politics, economics, social injustice, etc. <br>
+    。 Collected information and attended weekly meeting with eight team members
+    。 Generated editorials on monthly basis, covering 8~10 various social issues
+    "
+  
