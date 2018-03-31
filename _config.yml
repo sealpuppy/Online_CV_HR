@@ -16,7 +16,7 @@ style: styles-6
 #Profile information
 name: Ting-Yu (Terry) Kuo 
 tagline: 
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: profilepicture  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: '3 years experience working as a personnel consultant in the software domain with result-oriented working style. Skilled in long-term productive relationship building, strategic sourcing, and recruitment pipeline management. Always willing to listen, learn, and share.
 '
 
