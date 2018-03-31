@@ -1,18 +1,12 @@
 - skill:
-  name: Python & Django
-  level: 98%
+  name: Technical Recruitment
+  level: 90%
 - skill:
-  name: Javascript & jQuery
-  level: 98%
-- skill:
-  name: Angular
-  level: 98%
-- skill:
-  name: HTML5 & CSS
-  level: 95%
-- skill:
-  name: Ruby on Rails
+  name: Strategic Sourcing
   level: 85%
 - skill:
-  name: Sketch & Photoshop
-  level: 60%
+  name: Relationship Management
+  level: 85%
+- skill:
+  name: Business Communication
+  level: 75%
