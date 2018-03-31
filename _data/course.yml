@@ -1,23 +1,11 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: ""
 course:
   - course:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    title: Machine Learning Foundation, University of Washington (Coursera)
+    link: "https://www.coursera.org/account/accomplishments/verify/3EEQPGFCSAAY"
+    tagline: "A six weeks, forty-hour courses established by University of Washington, aiming to teach practical data processing and machine learning skills with real cases <br>
+    "
   - course:
-    title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
-  - course:
-    title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-  - course:
-    title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-  - course:
-    title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    title: Information System Training Program - Python for Data Science, National Taiwan University
+    link: ""
+    tagline: "A training established by Computer Science department of National Taiwan University, aiming to teach practical data analytic skills using Python, including: data structure, data cleaning,  data transforming, data visualization and practical machine learning skills <br>"
